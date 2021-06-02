@@ -1,4 +1,4 @@
-# Fastbook_challege Total 540+ pages
+# Fastbook_challege and Italian Language Total 540+ pages
 I am giving challenge to myself to complete this amazing book in 100 days
 ##100daysChallenge
 of reading Fast.ai book by Jeremy_Howard Sylvain Gugger Deep Learning for Coders with fastai and PyTorch AI Applications Without a PhD-O_Reilly_Media 2020
@@ -20,5 +20,11 @@ Template Matching
 1. Computing Metrics Using Broadcasting
 2. Stochastic Gradient Descent
 3. Calculating Gradients
+
+## 3 Day ( Experiments and Upload Notebook)
+
+
+##### Italian 
+Countings , Basic Word , Verbs, Formal and Informal Greetings
 
 
