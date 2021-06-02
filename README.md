@@ -12,3 +12,13 @@ Template Matching
 2. First Try: Pixel Similarity
 3. NumPy Arrays and PyTorch Tensors
 
+
+## 1Day (Pages Covered 11 pg 157)
+Introduction to Tensors and data design 
+Template Matching
+### Topics by Book :
+1. Computing Metrics Using Broadcasting
+2. Stochastic Gradient Descent
+3. Calculating Gradients
+
+
