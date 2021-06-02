@@ -4,7 +4,7 @@ I am giving challenge to myself to complete this amazing book in 100 days
 of reading Fast.ai book by Jeremy_Howard Sylvain Gugger Deep Learning for Coders with fastai and PyTorch AI Applications Without a PhD-O_Reilly_Media 2020
 
 
-## 1Day (Pages Covered 10)
+## 1 Day (Pages Covered 10)
 Introduction to Tensors and data design 
 Template Matching
 ### Topics by Book :
@@ -13,7 +13,7 @@ Template Matching
 3. NumPy Arrays and PyTorch Tensors
 
 
-## 1Day (Pages Covered 11 pg 157)
+## 2 Day (Pages Covered 11 pg 157)
 Introduction to Tensors and data design 
 Template Matching
 ### Topics by Book :
