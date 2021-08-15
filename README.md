@@ -29,3 +29,6 @@ Countings , Basic Word , Verbs, Formal and Informal Greetings
 
 
 ## 4 Day ( Pg 165)
+
+
+## 5 Day ( Probablistic View of Linear Regression) File# 1 Notes Attached
